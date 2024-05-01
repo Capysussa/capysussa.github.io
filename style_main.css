@@ -1,1 +1,11 @@
-
+#capysite_title {
+  margin: auto;
+  border-style: inset;
+  border-width: 10px;
+}
+#about_me {
+  margin: auto;
+}
+#ilike_link {
+  margin: auto;
+}
