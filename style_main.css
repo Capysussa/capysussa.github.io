@@ -1,10 +1,9 @@
 #capysite_title {
   margin: auto;
-  border-style: inset;
   border-width: 10px;
 }
 #about_me {
-  margin: auto;
+  margin: 10px 0 10px 0;
 }
 #ilike_link {
   margin: auto;
