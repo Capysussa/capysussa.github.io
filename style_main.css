@@ -1,9 +1,10 @@
 #capysite_title {
   text-align: center;
   border-width: 10px;
+  border-style: none none ridge none;
 }
 #about_me {
-  margin: 10px 0 10px 0;
+  text-align: center;
 }
 #ilike_link {
   text-align: center;
