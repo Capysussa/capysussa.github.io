@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+h1 {
+  border: none none double none;
+  border-width: 5px;
+  border-color: black;
+}
+h2 {
+  font-size: 15px;
+}
+ul {
+  font-family: "Poppins", sans-serif;
+  font-size: 10px;
+}
